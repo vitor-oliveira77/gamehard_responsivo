@@ -1,0 +1,1 @@
+# gamehard_responsivo
